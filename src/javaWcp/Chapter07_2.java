@@ -2,7 +2,7 @@ package javaWcp;
 
 public class Chapter07_2 {
 	public static void main(String[] args) {
-		String color = "red";
+		String color = "yellow";
 		switch (color) {
 		case "red":
 			System.out.println("赤信号です");
