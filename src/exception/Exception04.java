@@ -3,6 +3,8 @@ package exception;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 
+import org.omg.PortableInterceptor.TRANSPORT_RETRY;
+
 public class Exception04 {
 	public static void main(String[] args) {
 		try {
@@ -21,4 +23,5 @@ public class Exception04 {
 		FileReader fr = new FileReader(fileName);
 		System.out.println(fileName + "の読み込み完了");
 	}
+	try
 }
