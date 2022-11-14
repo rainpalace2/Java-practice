@@ -1,3 +1,4 @@
+package pracrice1;
 // データを受け取る機能をプログラムの中で扱う
 import java.util.*;
 
