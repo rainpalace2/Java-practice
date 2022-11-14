@@ -1,6 +1,8 @@
-// HTMLを表示する
+package practice;
 
-public class Main {
+//HTMLを表示する
+
+public class html {
   public static void main(String[] args) {
     // Javaで改行したくない場合（printメソッド）
     System.out.print("<h1>Hello world</h1>");

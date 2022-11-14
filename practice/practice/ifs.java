@@ -1,11 +1,13 @@
-import java.util.*;
+package practice;
 
-public class Main {
+import java.util.Scanner;
+
+public class ifs {
   public static void main(String[] args) {
     Scanner scan = new Scanner(System.in);
     String name = scan.next();
     System.out.println("Hello " + name);
-    
+
     // 文字列が一致しているか判定する（equalsメソッド)
     if (name.equals("Java")) {
       System.out.println("Welcome");

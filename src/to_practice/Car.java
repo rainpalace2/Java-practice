@@ -1,4 +1,4 @@
-package practice;
+package to_practice;
 
 public class Car {
 	// 燃費

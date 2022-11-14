@@ -1,8 +1,9 @@
-package pracrice1;
-// データを受け取る機能をプログラムの中で扱う
-import java.util.*;
+package practice;
 
-public class Main {
+//データを受け取る機能をプログラムの中で扱う
+import java.util.Scanner;
+
+public class practice1 {
   public static void main(String[] args) {
     // 変数scanにデータを受け取る機能を割り当てる
     Scanner scan = new Scanner(System.in);

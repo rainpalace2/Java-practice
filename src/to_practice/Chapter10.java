@@ -1,4 +1,4 @@
-package practice;
+package to_practice;
 
 import java.sql.SQLException;
 

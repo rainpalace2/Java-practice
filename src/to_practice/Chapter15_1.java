@@ -1,4 +1,4 @@
-package practice;
+package to_practice;
 
 public class Chapter15_1 {
   public static void main(String[] args) {
