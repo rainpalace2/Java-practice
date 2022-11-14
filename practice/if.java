@@ -6,7 +6,7 @@ public class Main {
     String name = scan.next();
     System.out.println("Hello " + name);
     
-    // 文字列が一致しているか判定する（equalsメソッド
+    // 文字列が一致しているか判定する（equalsメソッド)
     if (name.equals("Java")) {
       System.out.println("Welcome");
     } else if (name.equals("JAVA")) {
