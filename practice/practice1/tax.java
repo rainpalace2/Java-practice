@@ -1,4 +1,4 @@
-package practice;
+package practice1;
 
 public class tax {
   public static void main(String[] args) {

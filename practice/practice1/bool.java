@@ -1,4 +1,4 @@
-package practice;
+package practice1;
 
 //条件の評価結果
 
