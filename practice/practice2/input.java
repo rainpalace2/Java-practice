@@ -3,7 +3,7 @@ package practice2;
 // 標準入力とループ処理
 import java.util.Scanner;
 
-public class P1 {
+public class input {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
     int number = sc.nextInt();
