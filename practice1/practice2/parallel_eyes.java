@@ -1,6 +1,6 @@
 package practice2;
 
-import java.util.Scanner
+import java.util.Scanner;
 
 // ゾロ目
 
