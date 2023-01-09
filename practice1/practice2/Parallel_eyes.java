@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 // ゾロ目
 
-public class parallel_eyes {
+public class Parallel_eyes {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);

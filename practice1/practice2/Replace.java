@@ -5,7 +5,7 @@ import java.util.Scanner;
 // 文字列から文字を削除する
 // replaceメソッドを使う方法
 
-public class replace {
+public class Replace {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);
