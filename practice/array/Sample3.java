@@ -1,7 +1,7 @@
 package array;
 
 // 配列の各要素の規定値を参照
-public class sample3 {
+public class Sample3 {
   public static void main(String[] args) {
     int[] i = new int[1];
     System.out.println("int:" + i[0]);

@@ -1,6 +1,6 @@
 package array;
 
-public class sample5 {
+public class Sample5 {
   public static void main(String[] args) {
     // double型の配列の宣言・初期化
     double[] num = { 1.11, 2.22, 3.33 };

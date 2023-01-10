@@ -1,6 +1,6 @@
 package array;
 
-public class sample10 {
+public class Sample10 {
   public static void main(String[] args) {
     /* 配列を別の配列に代入した場合、同じ配列本体への参照がコピーされ
        要素の値を変更してもどちらの配列も同じ値を取得する */

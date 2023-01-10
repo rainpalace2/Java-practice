@@ -1,6 +1,6 @@
 package array;
 
-public class sample6 {
+public class Sample6 {
   public static void main(String[] args) {
     // int型の値を要素に格納する配列を、要素に格納する配列で、要素数が2の配列を作成
     int[][] num = new int[2][];

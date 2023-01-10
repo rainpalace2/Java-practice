@@ -1,6 +1,6 @@
 package array;
 
-public class sample1 {
+public class Sample1 {
   public static void main(String[] args) {
     // int型の配列を宣言し、3つの要素を持つ配列を作成
     int[] result = new int[3];

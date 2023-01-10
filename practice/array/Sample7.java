@@ -1,6 +1,6 @@
 package array;
 
-public class sample7 {
+public class Sample7 {
   public static void main(String[] args) {
     // 配列の要素を初期化
     int[][] num = { { 87, 54, 67 }, { 76, 92, 48 } };

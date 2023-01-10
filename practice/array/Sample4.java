@@ -1,6 +1,6 @@
 package array;
 
-public class sample4 {
+public class Sample4 {
   public static void main(String[] args) {
     // String型の配列を宣言すると同時に初期化
     String[] str = { "apple", "orange", "melon" };

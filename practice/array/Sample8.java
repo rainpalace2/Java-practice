@@ -1,6 +1,6 @@
 package array;
 
-public class sample8 {
+public class Sample8 {
   public static void main(String[] args) {
 
     // 配列変数名.lengthは一番外側の配列の要素数を返す
