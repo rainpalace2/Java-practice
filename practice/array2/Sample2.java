@@ -2,7 +2,7 @@ package array2;
 
 import java.util.Arrays; // java.util.Arraysのインポートが必要
 
-public class sample2 {
+public class Sample2 {
   public static void main(String[] args) {
     int[] src = { 12, 24, 18 };
     // 第1引数にコピーする対象の配列を指定する

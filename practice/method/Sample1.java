@@ -1,6 +1,6 @@
 package method;
 
-public class sample1 {
+public class Sample1 {
   public static void main(String[] args) {
     int eigo = 78;
     int suugaku = 90;

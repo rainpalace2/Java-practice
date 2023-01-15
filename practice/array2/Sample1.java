@@ -1,6 +1,6 @@
 package array2;
 
-public class sample1 {
+public class Sample1 {
   public static void main(String[] args) {
     // 配列の宣言
     // 配列型[] 配列名

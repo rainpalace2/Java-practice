@@ -1,6 +1,6 @@
 package array2;
 
-public class deep {
+public class Deep {
   public static void main(String[] args) {
 
     MyTest[] src = { new MyTest(28), new MyTest(12) };

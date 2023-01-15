@@ -1,6 +1,6 @@
 package array2;
 
-public class shallow {
+public class Shallow {
   public static void main(String[] args) {
 
     // MyTestクラスを定義した後、配列の要素にMyTestクラスのインスタンスを格納する

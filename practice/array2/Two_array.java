@@ -1,6 +1,6 @@
 package array2;
 
-public class two_array {
+public class Two_array {
   public static void main(String[] args) {
     // int型の2次元配列int2Arrayを宣言・生成
     //　上位配列(1次元配列）,下位配列（1次元配列の中の配列）

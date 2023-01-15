@@ -1,6 +1,6 @@
 package array2;
 
-public class element {
+public class Element {
   public static void main(String[] args) {
     // 配列の作成
     String[] team = { "A", "B" };
