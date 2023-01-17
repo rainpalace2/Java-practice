@@ -2,7 +2,7 @@ package practice1;
 
 //HTMLを表示する
 
-public class html {
+public class HTML {
   public static void main(String[] args) {
     // Javaで改行したくない場合（printメソッド）
     System.out.print("<h1>Hello world</h1>");

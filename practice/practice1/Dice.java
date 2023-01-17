@@ -1,6 +1,6 @@
 package practice1;
 
-public class dice {
+public class Dice {
   public static void main(String[] args) {
     // * 100 => 何個の数から1つを選ぶのかを指定、+ 1 => いくつから始まるのかを指定
     double rand = Math.random() * 100 + 1;

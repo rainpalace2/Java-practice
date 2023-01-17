@@ -2,7 +2,7 @@ package practice1;
 
 //条件の評価結果
 
-public class bool {
+public class Bool {
 public static void main(String[] args) {
  int number = 1;
  boolean flag = number == 1; // number変数が1のときtrue

@@ -1,6 +1,6 @@
 package practice1;
 
-public class tax {
+public class Tax {
   public static void main(String[] args) {
     int price = 2000;
     System.out.println("定価は" + price + "円です。");

@@ -2,7 +2,7 @@ package practice1;
 
 import java.util.Scanner;
 
-public class ifs {
+public class Ifs {
   public static void main(String[] args) {
     Scanner scan = new Scanner(System.in);
     String name = scan.next();

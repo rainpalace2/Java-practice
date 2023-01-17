@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 //複数のデータを受け取る
 
-public class fors {
+public class Fors {
   public static void main(String[] args) {
     Scanner scan = new Scanner(System.in);
     // 繰り返し回数を受け取る
