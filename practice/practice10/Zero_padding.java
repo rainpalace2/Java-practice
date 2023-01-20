@@ -7,7 +7,7 @@ import java.util.Scanner;
    nが２桁の場合、先頭に０を一つ加える
    nが１桁の場合、先頭に０を二つ加える */
 
-public class zero_padding {
+public class Zero_padding {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);

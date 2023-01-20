@@ -5,7 +5,7 @@ import java.util.Scanner;
 // 大文字から小文字への変換
 // 小文字から大文字への変換
 
-public class lowercase_to_uppercase {
+public class Lowercase_to_uppercase {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);

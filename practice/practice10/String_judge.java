@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 // 文字列が含まれているかの判定
 
-public class string_judge {
+public class String_judge {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);

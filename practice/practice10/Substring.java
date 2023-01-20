@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 // 指定範囲の部分文字列の取得
 
-public class substring {
+public class Substring {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);

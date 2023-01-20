@@ -6,7 +6,7 @@ import java.util.Scanner;
 /* 基本データ型をラッパークラスのオブジェクトに変換した後で各ラッパークラスで用意されている
    toStringメソッドを使って文字列に変換する */
 
-public class num_to_string {
+public class Num_to_string {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);

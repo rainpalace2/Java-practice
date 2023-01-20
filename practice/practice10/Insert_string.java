@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 // 文字列の挿入
 
-public class insert_string {
+public class Insert_string {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);
