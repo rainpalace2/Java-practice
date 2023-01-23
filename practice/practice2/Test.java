@@ -1,6 +1,6 @@
 package practice2;
 
-public class test {
+public class Test {
   public static void main(String[] args) {
 
     // 1~10までの偶数を表示させる

@@ -2,7 +2,7 @@ package practice2;
 
 // 2次元配列をnewで作成
 
-public class new_array {
+public class New_array {
   public static void main(String[] args) {
     int[][] array = new int[2][3];
 

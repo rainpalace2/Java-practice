@@ -2,7 +2,7 @@ package practice2;
 
 // 2次元配列の初期値を指定する
 
-public class new_array2 {
+public class New_array2 {
   public static void main(String[] args) {
     int[][] array = new int[2][3];
 

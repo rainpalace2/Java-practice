@@ -1,6 +1,6 @@
 package practice2;
 
-public class array {
+public class Array {
   public static void main(String[] args) {
     String player1 = "勇者";
     String player2 = "騎士";

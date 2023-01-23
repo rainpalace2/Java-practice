@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 // 標準入力から読み込んだ複数行データを配列に格納する
 
-public class multiple_lines2 {
+public class Multiple_lines2 {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
     ArrayList<String> array = new ArrayList<String>();
