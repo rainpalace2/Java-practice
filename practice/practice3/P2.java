@@ -1,6 +1,6 @@
 package practice3;
 
-public class p2 {
+public class P2 {
   public static void main(String[] args) {
     // int型の変数xに11を代入して"x=11"のように表示
     int x = 11;

@@ -1,6 +1,6 @@
 package practice3;
 
-public class p5_1 {
+public class P5_1 {
   public static void main(String[] args) {
     // 西暦年とと昭和年の対応表
     int seireki, shouwa;

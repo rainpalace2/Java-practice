@@ -1,6 +1,6 @@
 package practice3;
 
-public class p4 {
+public class P4 {
   public static void main(String[] args) {
     // 数値を20から10までの奇数を表示する
     int i = 20;

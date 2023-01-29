@@ -1,6 +1,6 @@
 package practice3;
 
-public class p1 {
+public class P1 {
   public static void main(String[] args) {
     // Hellot worldを表示
     System.out.println("Hello World");

@@ -2,7 +2,7 @@ package practice3;
 
 import java.util.Scanner;
 
-public class p5_2 {
+public class P5_2 {
   public static void main(String[] args) {
     /* 標準入力から、1行目に西暦年、2行目に期間が与えられる。
        この西暦年から始まる、期間分の西暦年と昭和年の対応表 */

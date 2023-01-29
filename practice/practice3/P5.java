@@ -1,6 +1,6 @@
 package practice3;
 
-public class p5 {
+public class P5 {
   public static void main(String[] args) {
     // ループの外でも変数を使用する場合
     int i;
