@@ -5,7 +5,7 @@ package practice4;
 import java.util.HashMap;
 import java.util.Map.Entry;
 
-public class hashmap {
+public class Hashmap {
   public static void main(String[] args) {
     /* HashMapの作成　
      キーのデータ型と値のデータ型を指定する */

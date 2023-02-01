@@ -2,7 +2,7 @@ package practice4;
 
 // 累乗（powメソッド）
 
-public class exponentiation2 {
+public class Exponentiation2 {
   public static void main(String[] args) {
 
     int a = 10;

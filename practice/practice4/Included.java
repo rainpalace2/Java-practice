@@ -5,7 +5,7 @@ import java.util.Scanner;
 // 0が含まれているか判定
 // 0が含まれている場合はNOと出力
 
-public class included {
+public class Included {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);

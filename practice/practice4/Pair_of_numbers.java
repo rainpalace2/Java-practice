@@ -2,7 +2,7 @@ package practice4;
 
 // (A, B)の形で出力
 
-public class pair_of_numbers {
+public class Pair_of_numbers {
   public static void main(String[] args) {
 
     int n = 5;

@@ -2,7 +2,7 @@ package practice4;
 
 // オーバーライド
 
-public class override {
+public class Override {
   public static void main(String[] args) {
     Box box = new Box("鋼鉄の剣");
     box.open();

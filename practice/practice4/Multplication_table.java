@@ -4,7 +4,7 @@ package practice4;
    数値を出力する際は2桁になるように半角スペースで埋める
  　 = を出力する際はその上の行の文字数と等しくなるようにする */
 
-public class multplication_table {
+public class Multplication_table {
   public static void main(String[] args) {
 
     // 2重ループでは外側のループが縦、内側のループが横と考える

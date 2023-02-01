@@ -4,7 +4,7 @@ package practice4;
 // aのn乗において、aは底、nは指数
 // aのn上を行う場合、aをかけるという処理をn回繰り返す
 
-public class exponentiation1 {
+public class xponentiation1 {
   public static void main(String[] args) {
 
     // 底
