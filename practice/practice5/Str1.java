@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 // 半角スペース区切りの2つの入力
 
-public class str1 {
+public class Str1 {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);

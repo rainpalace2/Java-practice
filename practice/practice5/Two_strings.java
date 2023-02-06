@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 // 2つの文字列を出力
 
-public class two_strings {
+public class Two_strings {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);

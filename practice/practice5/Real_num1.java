@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 // 入力として受け取った実数を、小数点以下の出力する桁数を指定して出力する
 
-public class real_num1 {
+public class Real_num1 {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);

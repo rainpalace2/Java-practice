@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 // 10行の入力
 
-public class ten_lines {
+public class Ten_lines {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
 

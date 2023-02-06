@@ -2,7 +2,7 @@ package practice5;
 
 // 2つの文字列の半角スペース区切りでの分割
 
-public class str {
+public class Str {
   public static void main(String[] args) {
     String s = "Hello World";
     /* splitメソッドの引数に半角スペースを指定して

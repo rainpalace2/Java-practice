@@ -3,7 +3,7 @@ package practice5;
 // 1つの実数を出力
 import java.util.Scanner;
 
-public class real_num {
+public class Real_num {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);

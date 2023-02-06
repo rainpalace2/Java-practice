@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 // 文字列とN個の整数の出力
 
-public class string_num {
+public class String_num {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);

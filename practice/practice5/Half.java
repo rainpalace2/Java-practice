@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 // n個の文字を半分ずつ出力
 
-public class half {
+public class Half {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);
