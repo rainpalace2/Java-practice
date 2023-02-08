@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 // 偶数、奇数の個数判定
 
-public class even_and_odd {
+public class Even_and_odd {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);

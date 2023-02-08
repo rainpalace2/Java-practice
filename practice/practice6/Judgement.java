@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 // 大文字が小文字を判定
 
-public class judgement {
+public class Judgement {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);

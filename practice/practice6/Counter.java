@@ -5,7 +5,7 @@ import java.util.Scanner;
 // 0~9までのカウンタ
 // 9までいくと0に戻る
 
-public class counter {
+public class Counter {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);

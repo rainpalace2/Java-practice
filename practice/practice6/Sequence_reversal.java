@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 // 数列の反転
 
-public class sequence_reversal {
+public class Sequence_reversal {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);

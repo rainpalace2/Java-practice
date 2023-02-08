@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 // 数列のA番目からB番目までの和
 
-public class sequence {
+public class Sequence {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);
