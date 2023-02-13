@@ -5,7 +5,7 @@ import java.util.Scanner;
 // 文字列を数値に変換する
 // ラッパークラスのparseIntメソッドを使う方法
 
-public class String_to_num {
+public class String_To_Num {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);

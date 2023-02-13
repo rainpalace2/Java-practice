@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 // 与えられた時刻の30分後を出力する
 
-public class String_manipulation {
+public class String_Manipulation {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);

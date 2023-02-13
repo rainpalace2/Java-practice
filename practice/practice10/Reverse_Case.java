@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 // 大文字小文字の反転
 
-public class Reverse_case {
+public class Reverse_Case {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);

@@ -6,7 +6,7 @@ import java.util.Scanner;
 /* StringBuilderクラスのreplaceメソッドで指定した範囲にある部分文字列を
    別の文字列に置換できる */
 
-public class Char_rewriting {
+public class Char_Rewriting {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);

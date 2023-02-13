@@ -2,7 +2,7 @@ package practice1;
 
 import java.util.Scanner;
 
-public class For_if {
+public class For_If {
   public static void main(String[] args) {
     Scanner scan = new Scanner(System.in);
     int count = scan.nextInt();
