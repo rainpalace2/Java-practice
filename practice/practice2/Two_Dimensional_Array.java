@@ -2,7 +2,7 @@ package practice2;
 
 // ループで2次元配列を出力する
 
-public class Two_dimensional_array {
+public class Two_Dimensional_Array {
   public static void main(String[] args) {
     String[][] array = { { "勇者", "忍者" }, { "武士", "戦士" }, { "僧侶", "魔法使い" } };
 

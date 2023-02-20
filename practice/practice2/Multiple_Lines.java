@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 // 標準入力から複数行データの読み込み
 
-public class Multiple_lines {
+public class Multiple_Lines {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
 

@@ -2,7 +2,7 @@ package practice4;
 
 // オーバーロード
 
-public class Overload {
+public class OverLoad {
   public static void main(String[] args) {
     attack();
     attack("スライム");

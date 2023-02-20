@@ -2,7 +2,7 @@ package practice4;
 
 // オーバーライド
 
-public class Override {
+public class OveRide {
   public static void main(String[] args) {
     Box box = new Box("鋼鉄の剣");
     box.open();
@@ -29,7 +29,7 @@ class MagicBox extends Box {
     super(item);
   }
 
-  @Override
+  @OveRide
   public void open() {
     System.out.println("宝箱を開いた。" + myItem + "が襲ってきた！");
   }
