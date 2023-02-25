@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 // Aが10以上、かつ、Bが10以上でない
 
-public class And_not {
+public class And_Not {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
 

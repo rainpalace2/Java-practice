@@ -5,7 +5,7 @@ import java.util.Scanner;
 // aが10以上かつbが10以上の場合にYESを出力する
 // cが10以上の時はa,bの値に関わらずYESを出力する
 
-public class And_or {
+public class And_Or {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);

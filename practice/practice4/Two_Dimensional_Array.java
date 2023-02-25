@@ -2,7 +2,7 @@ package practice4;
 
 import java.util.Scanner;
 
-public class Two_dimensional_array {
+public class Two_Dimensional_Array {
   public static void main(String[] args) {
 
     // 標準入力からデータを読み込み、2次元配列に格納する

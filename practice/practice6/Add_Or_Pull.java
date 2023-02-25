@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 // 足したり引いたり
 
-public class Add_or_pull {
+public class Add_Or_Pull {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);

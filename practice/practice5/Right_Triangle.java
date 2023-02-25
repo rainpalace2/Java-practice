@@ -5,7 +5,7 @@ import java.util.Scanner;
 // 直角三角形の出力
 // 1 行目の出力する個数は 1 つ、2 行目の出力する個数は 2 つ。i 行目の出力する個数は i 個。
 
-public class Right_triangle {
+public class Right_Triangle {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);
