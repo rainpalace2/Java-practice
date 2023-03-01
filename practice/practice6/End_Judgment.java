@@ -5,7 +5,7 @@ import java.util.Scanner;
 // 終了判定
 // 最も左にある奇数の要素の手前までの和を求める
 
-public class End_judgment {
+public class End_Judgment {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);

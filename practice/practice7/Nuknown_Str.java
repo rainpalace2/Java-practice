@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 // 未知数個の文字列の受け取り
 
-public class nuknown_str {
+public class Nuknown_Str {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);

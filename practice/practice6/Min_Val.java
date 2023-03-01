@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 // 5つの値から最小値を出力する
 
-public class Min_val {
+public class Min_Val {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);

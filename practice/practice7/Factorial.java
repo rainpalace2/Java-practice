@@ -5,7 +5,7 @@ import java.util.Scanner;
 // 階乗の計算
 // 3! => 3 * 2 * 1
 
-public class factorial {
+public class Factorial {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);

@@ -8,7 +8,7 @@ import java.util.Scanner;
  * 2 で割った余りを求めて 2^0 の位の数字を抽出する 
  * → 2 で割って 2^1 の位を 2^0 の位に下げるという動きを繰り返す */
 
-public class decimal_to_binary {
+public class Decimal_To_Binary {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);

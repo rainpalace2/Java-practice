@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 // 何回2で割れるか
 
-public class how_many_break {
+public class How_Many_Break {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);
