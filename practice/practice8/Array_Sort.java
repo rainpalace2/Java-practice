@@ -7,7 +7,7 @@ import java.util.Scanner;
 // 配列のソート
 // n個の整数を小さい順にソート
 
-public class array_sort {
+public class Array_Sort {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);

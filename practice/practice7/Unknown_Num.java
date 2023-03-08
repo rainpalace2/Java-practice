@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 // 未知数個の数の受け取り
 
-public class unknown_num {
+public class Unknown_Num {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);

@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 // 配列に6が含まれているか
 
-public class include {
+public class Include {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);

@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 // 数列の何番目にあるか
 
-public class what_num {
+public class What_Num {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);

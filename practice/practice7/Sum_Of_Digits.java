@@ -5,7 +5,7 @@ import java.util.Scanner;
 // 各桁の和を求める
 // 12345 => 15
 
-public class sum_of_digits {
+public class Sum_Of_Digits {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);

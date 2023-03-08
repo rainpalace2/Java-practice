@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 // ある数以上以下の要素の出力
 
-public class above_and_below {
+public class Above_And_Below {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);

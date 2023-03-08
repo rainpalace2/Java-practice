@@ -5,7 +5,7 @@ import java.util.Scanner;
 // 毎日増加するお金
 // AをAの10%ずつ増加させ、回数を数える
 
-public class increase_daily {
+public class Increase_Daily {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);

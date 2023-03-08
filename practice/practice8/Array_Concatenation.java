@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 // 配列の連結
 
-public class array_concatenation {
+public class Array_Concatenation {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);
