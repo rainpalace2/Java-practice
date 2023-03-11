@@ -5,7 +5,7 @@ import java.util.Scanner;
 // 要素数の出力
 // 行数 * 列数で求めることができる
 
-public class Elements_OutPut {
+public class Elements_Output {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);

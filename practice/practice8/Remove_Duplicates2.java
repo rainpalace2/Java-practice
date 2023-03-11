@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 // stream.distinctを使う方法
 
-public class remove_duplicates2 {
+public class Remove_Duplicates2 {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);

@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 // 動的配列
 
-public class dynamic_array {
+public class Dynamic_Array {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);

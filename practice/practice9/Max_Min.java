@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 // 2変数の最大最小
 
-public class max_min {
+public class Max_Min {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);

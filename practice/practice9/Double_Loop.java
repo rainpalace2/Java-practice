@@ -6,7 +6,7 @@ import java.util.Scanner;
 // 整数 N が与えられるので,"1 2 3 4 5" を N 行出力
 // 二重ループでは、内側のループ内の処理ほど繰り返し実行される
 
-public class double_loop {
+public class Double_Loop {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);

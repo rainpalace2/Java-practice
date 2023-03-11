@@ -6,7 +6,7 @@ import java.util.Scanner;
 // 部分配列
 // 配列のa番目からb番目を改行区切りで出力する
 
-public class subarray {
+public class SubArray {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);

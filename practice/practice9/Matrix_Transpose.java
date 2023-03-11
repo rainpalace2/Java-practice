@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 // 行列の転置
 
-public class matrix_transpose {
+public class Matrix_Transpose {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);

@@ -5,7 +5,7 @@ import java.util.Scanner;
 // 奇数の探索
 // 数列を先頭から順に見たときに、最後に現れる奇数が何番目にあるか
 
-public class odd_search {
+public class Odd_Search {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);

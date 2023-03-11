@@ -8,7 +8,7 @@ import java.util.TreeSet;
 
 // 重複を排除するために、集合を使う方法
 
-public class remove_duplicates {
+public class Remove_Duplicates {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);

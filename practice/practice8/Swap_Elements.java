@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 // 配列の要素の入れ替え
 
-public class swap_elements {
+public class Swap_Elements {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);
