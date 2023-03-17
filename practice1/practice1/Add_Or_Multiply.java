@@ -6,7 +6,7 @@ import java.util.Scanner;
 /* 2つの整数の組が与えられるので、各組の計算結果を足し合わせたものを出力する
    ただし、２つの整数が同じ値だった場合は、掛け合わせたもの */
 
-public class add_or_multiply {
+public class Add_Or_Multiply {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);

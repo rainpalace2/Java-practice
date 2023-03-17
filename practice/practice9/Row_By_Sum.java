@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 // 2次元配列の行ごとの和
 
-public class row_by_sum {
+public class Row_By_Sum {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);

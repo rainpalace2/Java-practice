@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 // 数列のM番目の値を出力する
 
-public class random_access {
+public class Random_Access {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);

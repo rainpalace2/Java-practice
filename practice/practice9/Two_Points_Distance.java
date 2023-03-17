@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 // 2点間の距離
 
-public class two_points_distance {
+public class Two_Points_Distance {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);

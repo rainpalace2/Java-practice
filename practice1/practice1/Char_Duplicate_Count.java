@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 // 文字の重複をカウントする
 
-public class char_duplicate_count {
+public class Char_Duplicate_Count {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);

@@ -6,7 +6,7 @@ import java.util.Scanner;
 /* 条件を満たすものが一つでもあるかを判定するには
    変数にブール値を代入してフラグとして使う方法が有効 */
 
-public class flag {
+public class Flag {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);

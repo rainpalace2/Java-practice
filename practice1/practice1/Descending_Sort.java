@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 // 降順ソート
 
-public class descending_sort {
+public class Descending_Sort {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);

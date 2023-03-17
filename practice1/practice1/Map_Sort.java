@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 // Listを使ってHashMapを並べ替える
 
-public class map_sort {
+public class Map_Sort {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);

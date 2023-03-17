@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 // 文字の検索
 
-public class search_for_char {
+public class Search_For_Char {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);

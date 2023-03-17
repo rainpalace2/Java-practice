@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 // 様々な長さの配列の和
 
-public class sum_of_arrays {
+public class Sum_Of_Arrays {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);
