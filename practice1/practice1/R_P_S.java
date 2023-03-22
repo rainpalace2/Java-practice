@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 // じゃんけんで必ず勝つ
 
-public class r_p_s {
+public class R_P_S {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);

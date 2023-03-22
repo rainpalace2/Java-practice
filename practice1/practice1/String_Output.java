@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 // nextLine()の動作
 
-public class string_output {
+public class String_Output {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);

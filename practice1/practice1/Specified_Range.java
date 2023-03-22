@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 // 指定範囲だけ大文字に変換
 
-public class specified_range {
+public class Specified_Range {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
 

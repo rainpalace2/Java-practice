@@ -6,7 +6,7 @@ import java.util.Scanner;
 // Map
 // １つの変数で複数のキーと値を保持できる
 
-public class map {
+public class Map {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);

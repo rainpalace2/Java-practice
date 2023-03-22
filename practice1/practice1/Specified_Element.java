@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 // 指定した要素があるかの判定
 
-public class specified_element {
+public class Specified_Element {
   public static void main(String[] args) {
 
     Scanner sc = new Scanner(System.in);
